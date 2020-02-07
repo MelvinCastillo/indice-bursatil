@@ -1,0 +1,30 @@
+C:\BVRD\Bitbucket\Projects\BVRDConsole\SIV.DataLayer\bin\Release\SIV.DataLayer.dll
+C:\BVRD\Bitbucket\Projects\BVRDConsole\SIV.DataLayer\bin\Release\SIV.DataLayer.pdb
+C:\BVRD\Bitbucket\Projects\BVRDConsole\SIV.DataLayer\bin\Release\BVRD.Global.dll
+C:\BVRD\Bitbucket\Projects\BVRDConsole\SIV.DataLayer\bin\Release\BVRD.Global.pdb
+C:\BVRD\Bitbucket\Projects\BVRDConsole\SIV.DataLayer\obj\Release\SIV.DataLayer.csprojResolveAssemblyReference.cache
+C:\BVRD\Bitbucket\Projects\BVRDConsole\SIV.DataLayer\obj\Release\SIV.DataLayer.dll
+C:\BVRD\Bitbucket\Projects\BVRDConsole\SIV.DataLayer\obj\Release\SIV.DataLayer.pdb
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\SIV.DataLayer\bin\Release\SIV.DataLayer.dll
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\SIV.DataLayer\bin\Release\SIV.DataLayer.pdb
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\SIV.DataLayer\bin\Release\BVRD.Global.dll
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\SIV.DataLayer\bin\Release\BVRD.Global.pdb
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\SIV.DataLayer\obj\Release\SIV.DataLayer.csprojResolveAssemblyReference.cache
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\SIV.DataLayer\obj\Release\SIV.DataLayer.dll
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\SIV.DataLayer\obj\Release\SIV.DataLayer.pdb
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\bin\Release\SIV.DataLayer.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\bin\Release\SIV.DataLayer.pdb
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\bin\Release\BVRD.Global.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\bin\Release\BVRD.Global.pdb
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\obj\Release\SIV.DataLayer.csprojResolveAssemblyReference.cache
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\obj\Release\SIV.DataLayer.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\obj\Release\SIV.DataLayer.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\bin\Release\SIV.DataLayer.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\bin\Release\SIV.DataLayer.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\bin\Release\BVRD.Global.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\bin\Release\BVRD.Global.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\obj\Release\SIV.DataLayer.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\obj\Release\SIV.DataLayer.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\obj\Release\SIV.DataLayer.csprojAssemblyReference.cache
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\obj\Release\SIV.DataLayer.csproj.CoreCompileInputs.cache
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\obj\Release\SIV.DataLayer.csproj.CopyComplete

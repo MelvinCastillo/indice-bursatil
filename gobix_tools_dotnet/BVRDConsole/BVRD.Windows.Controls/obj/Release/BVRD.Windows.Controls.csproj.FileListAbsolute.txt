@@ -1,0 +1,78 @@
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.Base.FrmBase.resources
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.Controls.FrmBaseDataView.resources
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.Base.FrmBaseDialog.resources
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.Controls.usDataView.resources
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\BVRD.Windows.Controls\obj\Release\GobixTools.Front.Controls.usFileBrowser.resources
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\BVRD.Windows.Controls\obj\Release\GobixTools.Front.Controls.usViewRebalancing.resources
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.csproj.GenerateResource.Cache
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\BVRD.Windows.Controls\bin\Release\BVRD.Windows.Controls.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\BVRD.Windows.Controls\bin\Release\BVRD.Windows.Controls.pdb
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\BVRD.Windows.Controls\bin\Release\ComponentFactory.Krypton.Toolkit.DLL
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\BVRD.Windows.Controls\bin\Release\Qios.DevSuite.Components.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.pdb
+C:\BVRD\Bitbucket\Projects\BVRDConsole\BVRD.Windows.Controls\bin\Release\BVRD.Windows.Controls.dll
+C:\BVRD\Bitbucket\Projects\BVRDConsole\BVRD.Windows.Controls\bin\Release\BVRD.Windows.Controls.pdb
+C:\BVRD\Bitbucket\Projects\BVRDConsole\BVRD.Windows.Controls\bin\Release\ComponentFactory.Krypton.Toolkit.DLL
+C:\BVRD\Bitbucket\Projects\BVRDConsole\BVRD.Windows.Controls\bin\Release\Qios.DevSuite.Components.dll
+C:\BVRD\Bitbucket\Projects\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.Base.FrmBase.resources
+C:\BVRD\Bitbucket\Projects\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.Base.FrmBaseDataView.resources
+C:\BVRD\Bitbucket\Projects\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.Base.FrmBaseDialog.resources
+C:\BVRD\Bitbucket\Projects\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.Controls.usDataView.resources
+C:\BVRD\Bitbucket\Projects\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRDConsole.Front.Controls.usFileBrowser.resources
+C:\BVRD\Bitbucket\Projects\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.Controls.usFileManual.resources
+C:\BVRD\Bitbucket\Projects\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRDConsole.Front.Controls.usViewRebalancing.resources
+C:\BVRD\Bitbucket\Projects\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.Properties.Resources.resources
+C:\BVRD\Bitbucket\Projects\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.csproj.GenerateResource.Cache
+C:\BVRD\Bitbucket\Projects\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.dll
+C:\BVRD\Bitbucket\Projects\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.pdb
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRD.Windows.Controls\bin\Release\BVRD.Windows.Controls.dll
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRD.Windows.Controls\bin\Release\BVRD.Windows.Controls.pdb
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRD.Windows.Controls\bin\Release\ComponentFactory.Krypton.Toolkit.DLL
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.csprojResolveAssemblyReference.cache
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.Base.FrmBase.resources
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.Base.FrmBaseDataView.resources
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.Base.FrmBaseDialog.resources
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.Controls.usDataView.resources
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRDConsole.Front.Controls.usFileBrowser.resources
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.Controls.usFileManual.resources
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRDConsole.Front.Controls.usViewRebalancing.resources
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.Properties.Resources.resources
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.csproj.GenerateResource.Cache
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.dll
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.pdb
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRD.Windows.Controls\bin\Release\EPPlus.dll
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRD.Windows.Controls\bin\Release\EPPlus.xml
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\bin\Release\BVRD.Windows.Controls.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\bin\Release\BVRD.Windows.Controls.pdb
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\bin\Release\ComponentFactory.Krypton.Toolkit.DLL
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\bin\Release\EPPlus.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\bin\Release\EPPlus.xml
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.csprojResolveAssemblyReference.cache
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.Base.FrmBase.resources
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.Base.FrmBaseDataView.resources
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.Base.FrmBaseDialog.resources
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.Controls.usDataView.resources
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRDConsole.Front.Controls.usFileBrowser.resources
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.Controls.usFileManual.resources
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRDConsole.Front.Controls.usViewRebalancing.resources
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.Properties.Resources.resources
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.csproj.GenerateResource.Cache
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\bin\Release\BVRD.Windows.Controls.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\bin\Release\BVRD.Windows.Controls.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.Base.FrmBase.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.Base.FrmBaseDataView.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.Base.FrmBaseDialog.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.Controls.usDataView.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRDConsole.Front.Controls.usFileBrowser.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.Controls.usFileManual.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRDConsole.Front.Controls.usViewRebalancing.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.Properties.Resources.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.csproj.GenerateResource.Cache
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.csprojAssemblyReference.cache
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.csproj.CoreCompileInputs.cache
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Windows.Controls\obj\Release\BVRD.Windows.Controls.csproj.CopyComplete

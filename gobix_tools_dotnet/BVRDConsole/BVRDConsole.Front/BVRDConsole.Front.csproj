@@ -1,0 +1,499 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{71669BDF-8A51-4ACB-98EB-5364481759A0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BVRDConsole.Front</RootNamespace>
+    <AssemblyName>BVRDConsole.Front</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\melvin.castillo\Desktop\RDVAL Precios Corporativos y Gubernamentales\publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Designbolts-Seo-SEO-Practice - Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>CB5B6B69B6A4E052F5D4007D6821BCBD0D044164</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>BVRDConsole.Front_1_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BVRD.Security.Utils">
+      <HintPath>..\..\..\..\..\..\..\References\BVRD.Security.Utils.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Toolkit">
+      <HintPath>..\..\..\..\..\..\..\References\ComponentFactory.Krypton.Toolkit.DLL</HintPath>
+    </Reference>
+    <Reference Include="CristiPotlog.Controls.Wizard">
+      <HintPath>..\..\..\..\..\..\..\References\CristiPotlog.Controls.Wizard.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus">
+      <HintPath>..\..\..\..\..\..\..\..\..\programs\EPPlus 4.0.4\EPPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.SignalR.Core, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.SignalR.Core.2.2.0\lib\net45\Microsoft.AspNet.SignalR.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.SignalR.SystemWeb, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.SignalR.SystemWeb.2.2.0\lib\net45\Microsoft.AspNet.SignalR.SystemWeb.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>References\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin, Version=2.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Owin.2.1.0\lib\net45\Microsoft.Owin.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Host.SystemWeb, Version=2.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Owin.Host.SystemWeb.2.1.0\lib\net45\Microsoft.Owin.Host.SystemWeb.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security, Version=2.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Owin.Security.2.1.0\lib\net45\Microsoft.Owin.Security.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Owin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f0ebd12fd5e55cc5, processorArchitecture=MSIL">
+      <HintPath>..\packages\Owin.1.0\lib\net40\Owin.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Qios.DevSuite.Components, Version=4.0.0.10, Culture=neutral, PublicKeyToken=3cc53827b79c92fa, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\..\programs\QiosDevSuite\Qios.DevSuite.DemoZone\bin\Release\Qios.DevSuite.Components.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Design">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="UIAutomationProvider">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="UIAutomationTypes">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="WindowsBase">
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GOBIX\Files\FrmGobixFtpFiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GOBIX\Files\FrmGobixFtpFiles.Designer.cs">
+      <DependentUpon>FrmGobixFtpFiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GOBIX\Files\FrmGobixManualFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GOBIX\Files\FrmGobixManualFile.Designer.cs">
+      <DependentUpon>FrmGobixManualFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GOBIX\Files\FrmGobixProcessFiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GOBIX\Files\FrmGobixProcessFiles.Designer.cs">
+      <DependentUpon>FrmGobixProcessFiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDashBoard.Designer.cs">
+      <DependentUpon>FrmDashBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GOBIX\Index\FrmViewIndex.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GOBIX\Index\FrmViewIndex.Designer.cs">
+      <DependentUpon>FrmViewIndex.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GOBIX\Index\FrmPublish.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GOBIX\Index\FrmPublish.Designer.cs">
+      <DependentUpon>FrmPublish.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GOBIX\Index\FrmRunIndex.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GOBIX\Index\FrmRunIndex.Designer.cs">
+      <DependentUpon>FrmRunIndex.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GOBIX\Rebalancing\FrmManualRebalancing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GOBIX\Rebalancing\FrmManualRebalancing.Designer.cs">
+      <DependentUpon>FrmManualRebalancing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GOBIX\Rebalancing\FrmRebalancing_Ponderation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GOBIX\Rebalancing\FrmRebalancing_Ponderation.Designer.cs">
+      <DependentUpon>FrmRebalancing_Ponderation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GOBIX\Rebalancing\FrmSelectRebalancing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GOBIX\Rebalancing\FrmSelectRebalancing.Designer.cs">
+      <DependentUpon>FrmSelectRebalancing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="GOBIX\Rebalancing\FrmViewRebalancing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GOBIX\Rebalancing\FrmViewRebalancing.Designer.cs">
+      <DependentUpon>FrmViewRebalancing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GOBIX\Rebalancing\FrmDoRebalancing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GOBIX\Rebalancing\FrmDoRebalancing.Designer.cs">
+      <DependentUpon>FrmDoRebalancing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SIV\Files\FrmSIVFilesHistoryBancos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SIV\Files\FrmSIVFilesHistoryBancos.Designer.cs">
+      <DependentUpon>FrmSIVFilesHistoryBancos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SIV\Files\FrmSIVFilesHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SIV\Files\FrmSIVFilesHistory.Designer.cs">
+      <DependentUpon>FrmSIVFilesHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SIV\Files\FrmSIVFtpFilesBancos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SIV\Files\FrmSIVFtpFilesBancos.Designer.cs">
+      <DependentUpon>FrmSIVFtpFilesBancos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SIV\Files\FrmSIVFtpFiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SIV\Files\FrmSIVFtpFiles.Designer.cs">
+      <DependentUpon>FrmSIVFtpFiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SIV\Files\FrmSIVManualFileBancos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SIV\Files\FrmSIVManualFileBancos.Designer.cs">
+      <DependentUpon>FrmSIVManualFileBancos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SIV\Files\FrmSIVManualFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SIV\Files\FrmSIVManualFile.Designer.cs">
+      <DependentUpon>FrmSIVManualFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SIV\Files\FrmSIVProcessFilesBancos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SIV\Files\FrmSIVProcessFilesBancos.Designer.cs">
+      <DependentUpon>FrmSIVProcessFilesBancos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SIV\Files\FrmSIVProcessFiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SIV\Files\FrmSIVProcessFiles.Designer.cs">
+      <DependentUpon>FrmSIVProcessFiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SIV\Files\FrmSIVPublish.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SIV\Files\FrmSIVPublish.Designer.cs">
+      <DependentUpon>FrmSIVPublish.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SIV\Files\FrmViewDataSivResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SIV\Files\FrmViewDataSivResult.Designer.cs">
+      <DependentUpon>FrmViewDataSivResult.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GOBIX\Files\FrmGobixFtpFiles.resx">
+      <DependentUpon>FrmGobixFtpFiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GOBIX\Files\FrmGobixManualFile.resx">
+      <DependentUpon>FrmGobixManualFile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GOBIX\Files\FrmGobixProcessFiles.resx">
+      <DependentUpon>FrmGobixProcessFiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDashBoard.resx">
+      <DependentUpon>FrmDashBoard.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GOBIX\Index\FrmPublish.resx">
+      <DependentUpon>FrmPublish.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GOBIX\Index\FrmRunIndex.resx">
+      <DependentUpon>FrmRunIndex.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GOBIX\Index\FrmViewIndex.resx">
+      <DependentUpon>FrmViewIndex.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GOBIX\Rebalancing\FrmManualRebalancing.resx">
+      <DependentUpon>FrmManualRebalancing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GOBIX\Rebalancing\FrmRebalancing_Ponderation.resx">
+      <DependentUpon>FrmRebalancing_Ponderation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GOBIX\Rebalancing\FrmSelectRebalancing.resx">
+      <DependentUpon>FrmSelectRebalancing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GOBIX\Rebalancing\FrmDoRebalancing.resx">
+      <DependentUpon>FrmDoRebalancing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GOBIX\Rebalancing\FrmViewRebalancing.resx">
+      <DependentUpon>FrmViewRebalancing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SIV\Files\FrmSIVFilesHistoryBancos.resx">
+      <DependentUpon>FrmSIVFilesHistoryBancos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SIV\Files\FrmSIVFilesHistory.resx">
+      <DependentUpon>FrmSIVFilesHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SIV\Files\FrmSIVFtpFilesBancos.resx">
+      <DependentUpon>FrmSIVFtpFilesBancos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SIV\Files\FrmSIVFtpFiles.resx">
+      <DependentUpon>FrmSIVFtpFiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SIV\Files\FrmSIVManualFileBancos.resx">
+      <DependentUpon>FrmSIVManualFileBancos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SIV\Files\FrmSIVManualFile.resx">
+      <DependentUpon>FrmSIVManualFile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SIV\Files\FrmSIVProcessFilesBancos.resx">
+      <DependentUpon>FrmSIVProcessFilesBancos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SIV\Files\FrmSIVProcessFiles.resx">
+      <DependentUpon>FrmSIVProcessFiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SIV\Files\FrmSIVPublish.resx">
+      <DependentUpon>FrmSIVPublish.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SIV\Files\FrmViewDataSivResult.resx">
+      <DependentUpon>FrmViewDataSivResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="BVRDConsole.Front_1_TemporaryKey.pfx" />
+    <None Include="SIV\app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BVRDConsole.Front_TemporaryKey.pfx" />
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BVRD.FTP.Utils\BVRD.FTP.Utils.csproj">
+      <Project>{0d85c730-3e7c-40b0-a98f-c39b4a83c324}</Project>
+      <Name>BVRD.FTP.Utils</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BVRD.Windows.Controls\BVRD.Windows.Controls.csproj">
+      <Project>{f2ea4e6d-c6db-49bc-9ba6-e70dd099fed4}</Project>
+      <Name>BVRD.Windows.Controls</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Gobix.BusinessDays\Gobix.BusinessLayer.csproj">
+      <Project>{463efab2-f0ae-4095-8655-99c5ae33ca2c}</Project>
+      <Name>Gobix.BusinessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Gobix.DataLayer\Gobix.DataLayer.csproj">
+      <Project>{1081b797-da2d-4876-906c-a403d3e5f32a}</Project>
+      <Name>Gobix.DataLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BVRD.Global\BVRD.Global.csproj">
+      <Project>{f6993235-d35f-4071-8916-992efe5beee5}</Project>
+      <Name>BVRD.Global</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SIV.BusinessLayer\SIV.BusinessLayer.csproj">
+      <Project>{1850a0ef-5096-4d8c-9778-e2fa8fa973b7}</Project>
+      <Name>SIV.BusinessLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Designbolts-Seo-SEO-Practice - Icon.ico" />
+    <Content Include="Scripts\jquery-1.6.4-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.6.4.js" />
+    <Content Include="Scripts\jquery-1.6.4.min.js" />
+    <Content Include="Scripts\jquery.signalR-2.2.0.js" />
+    <Content Include="Scripts\jquery.signalR-2.2.0.min.js" />
+    <None Include="Resources\Header.png" />
+    <None Include="Resources\images1.png" />
+    <None Include="Resources\images.png" />
+    <None Include="Resources\outlook3.jpeg" />
+    <None Include="Resources\outlook4.jpeg" />
+    <None Include="Resources\Target-Audience-Icon.png" />
+    <None Include="Resources\Competitive-Keyword-Icon.png" />
+    <None Include="Resources\Upload-Information-icon.png" />
+    <None Include="Resources\edit.png" />
+    <None Include="Resources\BVRD_BAJANTE_4.jpg" />
+    <None Include="Resources\x_alt_32x32 RED.png" />
+    <None Include="Resources\check_alt_32x32 BLUE.png" />
+    <None Include="Resources\Copy_6524.png" />
+    <None Include="Resources\Office_Excel_Application_16xLG.png" />
+    <None Include="Resources\arrow_left_16x16.png" />
+    <None Include="Resources\arrow_right_16x16.png" />
+    <None Include="Resources\last_16x16.png" />
+    <None Include="Resources\first_16x16.png" />
+    <None Include="References\ADGV Dll\loop_16x16.png" />
+    <None Include="References\ADGV Dll\loop_24x24.png" />
+    <None Include="References\ADGV Dll\calendar_alt_stroke_16x16.png" />
+    <None Include="References\ADGV Dll\book_16x16.png" />
+    <None Include="References\ADGV Dll\bolt_16x16.png" />
+    <None Include="References\ADGV Dll\x_14x14.png" />
+    <None Include="References\ADGV Dll\document_stroke_16x16.png" />
+    <None Include="References\ADGV Dll\brush_16x16.png" />
+    <None Include="References\ADGV Dll\magnifying_glass_16x16.png" />
+    <None Include="Images\Actions-edit-delete-icon.png" />
+    <None Include="Images\Actions-dialog-ok-apply-icon.png" />
+    <None Include="Images\copy_16.png" />
+    <None Include="Images\export_excel_16.png" />
+    <None Include="Images\Market-Analysis-icon-24.png" />
+    <None Include="Images\x_28x28.png" />
+    <None Include="Images\check_32x26.png" />
+    <None Include="Images\circle-x-4x.png" />
+    <None Include="Images\circle-check-4x.png" />
+    <None Include="Images\SEO-Monitoring-Icon 256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

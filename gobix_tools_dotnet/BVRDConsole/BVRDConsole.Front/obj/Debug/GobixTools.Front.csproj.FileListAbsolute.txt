@@ -1,0 +1,73 @@
+c:\users\jurnio.altagracia\documents\visual studio 2012\Projects\GobixTools\GobixTools.Front\bin\Debug\GobixTools.Front.exe
+c:\users\jurnio.altagracia\documents\visual studio 2012\Projects\GobixTools\GobixTools.Front\bin\Debug\GobixTools.Front.pdb
+c:\users\jurnio.altagracia\documents\visual studio 2012\Projects\GobixTools\GobixTools.Front\obj\Debug\GobixTools.Front.Properties.Resources.resources
+c:\users\jurnio.altagracia\documents\visual studio 2012\Projects\GobixTools\GobixTools.Front\obj\Debug\GobixTools.Front.csproj.GenerateResource.Cache
+c:\users\jurnio.altagracia\documents\visual studio 2012\Projects\GobixTools\GobixTools.Front\obj\Debug\GobixTools.Front.exe
+c:\users\jurnio.altagracia\documents\visual studio 2012\Projects\GobixTools\GobixTools.Front\obj\Debug\GobixTools.Front.pdb
+c:\users\jurnio.altagracia\documents\visual studio 2012\Projects\GobixTools\GobixTools.Front\bin\Debug\GobixTools.Front.exe.config
+c:\users\jurnio.altagracia\documents\visual studio 2012\Projects\GobixTools\GobixTools.Front\obj\Debug\GobixTools.Front.csprojResolveAssemblyReference.cache
+c:\users\jurnio.altagracia\documents\visual studio 2012\Projects\GobixTools\GobixTools.Front\obj\Debug\GobixTools.Front.Form1.resources
+c:\users\jurnio.altagracia\documents\visual studio 2012\Projects\GobixTools\GobixTools.Front\bin\Debug\Gobix.Global.dll
+c:\users\jurnio.altagracia\documents\visual studio 2012\Projects\GobixTools\GobixTools.Front\bin\Debug\Gobix.Global.pdb
+c:\users\jurnio.altagracia\documents\visual studio 2012\Projects\GobixTools\GobixTools.Front\bin\Debug\Gobix.BusinessDays.dll
+c:\users\jurnio.altagracia\documents\visual studio 2012\Projects\GobixTools\GobixTools.Front\bin\Debug\Gobix.BusinessDays.pdb
+C:\Users\jurnio.altagracia\Documents\Visual Studio 2012\Projects\GobixTools\GobixTools.Front\bin\Debug\Gobix.DataLayer.dll
+C:\Users\jurnio.altagracia\Documents\Visual Studio 2012\Projects\GobixTools\GobixTools.Front\bin\Debug\Gobix.DataLayer.pdb
+C:\BVRD\Proyectos\Gobix\Gobix\GobixTools\GobixTools.Front\bin\Debug\GobixTools.Front.exe.config
+C:\BVRD\Proyectos\Gobix\Gobix\GobixTools\GobixTools.Front\obj\Debug\GobixTools.Front.exe
+C:\BVRD\Proyectos\Gobix\Gobix\GobixTools\GobixTools.Front\obj\Debug\GobixTools.Front.pdb
+C:\BVRD\Proyectos\Gobix\Gobix\GobixTools\GobixTools.Front\bin\Debug\GobixTools.Front.exe
+C:\BVRD\Proyectos\Gobix\Gobix\GobixTools\GobixTools.Front\bin\Debug\GobixTools.Front.pdb
+C:\BVRD\Proyectos\Gobix\Gobix\GobixTools\GobixTools.Front\bin\Debug\Gobix.BusinessDays.dll
+C:\BVRD\Proyectos\Gobix\Gobix\GobixTools\GobixTools.Front\bin\Debug\Gobix.Global.dll
+C:\BVRD\Proyectos\Gobix\Gobix\GobixTools\GobixTools.Front\bin\Debug\Gobix.DataLayer.dll
+C:\BVRD\Proyectos\Gobix\Gobix\GobixTools\GobixTools.Front\bin\Debug\Gobix.BusinessDays.pdb
+C:\BVRD\Proyectos\Gobix\Gobix\GobixTools\GobixTools.Front\bin\Debug\Gobix.Global.pdb
+C:\BVRD\Proyectos\Gobix\Gobix\GobixTools\GobixTools.Front\bin\Debug\Gobix.DataLayer.pdb
+C:\BVRD\Proyectos\Gobix\Gobix\GobixTools\GobixTools.Front\obj\Debug\GobixTools.Front.csprojResolveAssemblyReference.cache
+C:\BVRD\Proyectos\Gobix\Gobix\GobixTools\GobixTools.Front\obj\Debug\GobixTools.Front.Form1.resources
+C:\BVRD\Proyectos\Gobix\Gobix\GobixTools\GobixTools.Front\obj\Debug\GobixTools.Front.Properties.Resources.resources
+C:\BVRD\Proyectos\Gobix\Gobix\GobixTools\GobixTools.Front\obj\Debug\GobixTools.Front.csproj.GenerateResource.Cache
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\obj\Debug\GobixTools.Front.csprojResolveAssemblyReference.cache
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\obj\Debug\GobixTools.Front.Base.FrmBase.resources
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\obj\Debug\GobixTools.Front.Base.FrmBaseDataView.resources
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\obj\Debug\GobixTools.Front.Base.FrmBaseDialog.resources
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\obj\Debug\GobixTools.Front.Controls.usDataView.resources
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\obj\Debug\GobixTools.Front.Controls.usFileBrowser.resources
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\obj\Debug\GobixTools.Front.Files.FrmFtpFiles.resources
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\obj\Debug\GobixTools.Front.Files.FrmProcessFiles.resources
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\obj\Debug\GobixTools.Front.FrmDashBoard.resources
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\obj\Debug\GobixTools.Front.FrmLogin.resources
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\obj\Debug\GobixTools.Front.frmMain.resources
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\obj\Debug\GobixTools.Front.Index.FrmPublish.resources
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\obj\Debug\GobixTools.Front.Index.FrmRunIndex.resources
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\obj\Debug\GobixTools.Front.Properties.Resources.resources
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\obj\Debug\GobixTools.Front.csproj.GenerateResource.Cache
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\bin\Debug\GobixTools.Front.exe.config
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\bin\Debug\GobixTools.Front.exe
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\bin\Debug\GobixTools.Front.pdb
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\bin\Debug\BVRD.FTP.Utils.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\bin\Debug\BVRD.Security.Utils.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\bin\Debug\Gobix.BusinessLayer.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\bin\Debug\Gobix.DataLayer.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\bin\Debug\Gobix.Global.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\bin\Debug\Microsoft.CSharp.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\bin\Debug\Qios.DevSuite.Components.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\bin\Debug\System.Data.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\bin\Debug\System.Design.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\bin\Debug\System.Drawing.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\bin\Debug\System.Runtime.Serialization.Formatters.Soap.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\bin\Debug\System.Web.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\bin\Debug\System.Windows.Forms.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\bin\Debug\System.Xml.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\bin\Debug\UIAutomationProvider.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\bin\Debug\UIAutomationTypes.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\bin\Debug\WindowsBase.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\bin\Debug\BVRD.FTP.Utils.pdb
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\bin\Debug\Gobix.BusinessLayer.pdb
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\bin\Debug\Gobix.DataLayer.pdb
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\bin\Debug\Gobix.Global.pdb
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\obj\Debug\GobixTools.Front.exe
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\obj\Debug\GobixTools.Front.pdb
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\bin\Debug\ComponentFactory.Krypton.Toolkit.DLL
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\obj\Debug\GobixTools.Front.Rebalancing.FrmViewRebalancing.resources

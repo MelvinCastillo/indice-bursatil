@@ -1,0 +1,58 @@
+C:\Users\jurnio.altagracia\Documents\Visual Studio 2012\Projects\GobixTools\Gobix.DataLayer\obj\Debug\Gobix.DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\jurnio.altagracia\Documents\Visual Studio 2012\Projects\GobixTools\Gobix.DataLayer\bin\Debug\Gobix.DataLayer.dll
+C:\Users\jurnio.altagracia\Documents\Visual Studio 2012\Projects\GobixTools\Gobix.DataLayer\bin\Debug\Gobix.DataLayer.pdb
+C:\Users\jurnio.altagracia\Documents\Visual Studio 2012\Projects\GobixTools\Gobix.DataLayer\bin\Debug\Gobix.Global.dll
+C:\Users\jurnio.altagracia\Documents\Visual Studio 2012\Projects\GobixTools\Gobix.DataLayer\bin\Debug\Gobix.Global.pdb
+C:\Users\jurnio.altagracia\Documents\Visual Studio 2012\Projects\GobixTools\Gobix.DataLayer\obj\Debug\Gobix.DataLayer.dll
+C:\Users\jurnio.altagracia\Documents\Visual Studio 2012\Projects\GobixTools\Gobix.DataLayer\obj\Debug\Gobix.DataLayer.pdb
+C:\BVRD\Proyectos\Gobix\Gobix\GobixTools\Gobix.DataLayer\bin\Debug\Gobix.DataLayer.dll
+C:\BVRD\Proyectos\Gobix\Gobix\GobixTools\Gobix.DataLayer\bin\Debug\Gobix.DataLayer.pdb
+C:\BVRD\Proyectos\Gobix\Gobix\GobixTools\Gobix.DataLayer\bin\Debug\Gobix.Global.dll
+C:\BVRD\Proyectos\Gobix\Gobix\GobixTools\Gobix.DataLayer\bin\Debug\Gobix.Global.pdb
+C:\BVRD\Proyectos\Gobix\Gobix\GobixTools\Gobix.DataLayer\obj\Debug\Gobix.DataLayer.csprojResolveAssemblyReference.cache
+C:\BVRD\Proyectos\Gobix\Gobix\GobixTools\Gobix.DataLayer\obj\Debug\Gobix.DataLayer.dll
+C:\BVRD\Proyectos\Gobix\Gobix\GobixTools\Gobix.DataLayer\obj\Debug\Gobix.DataLayer.pdb
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\Gobix.DataLayer\bin\Debug\Gobix.DataLayer.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\Gobix.DataLayer\bin\Debug\Gobix.DataLayer.pdb
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\Gobix.DataLayer\bin\Debug\Gobix.Global.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\Gobix.DataLayer\bin\Debug\Gobix.Global.pdb
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\Gobix.DataLayer\obj\Debug\Gobix.DataLayer.csprojResolveAssemblyReference.cache
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\Gobix.DataLayer\obj\Debug\Gobix.DataLayer.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\Gobix.DataLayer\obj\Debug\Gobix.DataLayer.pdb
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\Gobix.DataLayer\bin\Debug\Gobix.DataLayer.dll
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\Gobix.DataLayer\bin\Debug\Gobix.DataLayer.pdb
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\Gobix.DataLayer\bin\Debug\BVRD.Global.dll
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\Gobix.DataLayer\bin\Debug\BVRD.Global.pdb
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\Gobix.DataLayer\obj\Debug\Gobix.DataLayer.csprojResolveAssemblyReference.cache
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\Gobix.DataLayer\obj\Debug\Gobix.DataLayer.dll
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\Gobix.DataLayer\obj\Debug\Gobix.DataLayer.pdb
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.DataLayer\bin\Debug\Gobix.DataLayer.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.DataLayer\bin\Debug\Gobix.DataLayer.pdb
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.DataLayer\bin\Debug\BVRD.Global.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.DataLayer\bin\Debug\BVRD.Global.pdb
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.DataLayer\obj\Debug\Gobix.DataLayer.csprojResolveAssemblyReference.cache
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.DataLayer\obj\Debug\Gobix.DataLayer.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.DataLayer\obj\Debug\Gobix.DataLayer.pdb
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.DataLayer\bin\Debug\Gobix.DataLayer.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.DataLayer\bin\Debug\Gobix.DataLayer.pdb
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.DataLayer\bin\Debug\BVRD.Global.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.DataLayer\bin\Debug\BVRD.Global.pdb
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.DataLayer\obj\Debug\Gobix.DataLayer.csprojResolveAssemblyReference.cache
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.DataLayer\obj\Debug\Gobix.DataLayer.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.DataLayer\obj\Debug\Gobix.DataLayer.pdb
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.DataLayer\bin\Debug\Gobix.DataLayer.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.DataLayer\bin\Debug\Gobix.DataLayer.pdb
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.DataLayer\bin\Debug\BVRD.Global.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.DataLayer\bin\Debug\BVRD.Global.pdb
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.DataLayer\obj\Debug\Gobix.DataLayer.csprojResolveAssemblyReference.cache
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.DataLayer\obj\Debug\Gobix.DataLayer.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.DataLayer\obj\Debug\Gobix.DataLayer.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.DataLayer\bin\Debug\Gobix.DataLayer.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.DataLayer\bin\Debug\Gobix.DataLayer.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.DataLayer\bin\Debug\BVRD.Global.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.DataLayer\bin\Debug\BVRD.Global.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.DataLayer\obj\Debug\Gobix.DataLayer.csprojAssemblyReference.cache
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.DataLayer\obj\Debug\Gobix.DataLayer.csproj.CoreCompileInputs.cache
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.DataLayer\obj\Debug\Gobix.DataLayer.csproj.CopyComplete
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.DataLayer\obj\Debug\Gobix.DataLayer.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.DataLayer\obj\Debug\Gobix.DataLayer.pdb

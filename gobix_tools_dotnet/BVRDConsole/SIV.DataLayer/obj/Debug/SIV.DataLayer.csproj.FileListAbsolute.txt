@@ -1,0 +1,37 @@
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\SIV.DataLayer\bin\Debug\SIV.DataLayer.dll
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\SIV.DataLayer\bin\Debug\SIV.DataLayer.pdb
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\SIV.DataLayer\bin\Debug\BVRD.Global.dll
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\SIV.DataLayer\bin\Debug\BVRD.Global.pdb
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\SIV.DataLayer\obj\Debug\SIV.DataLayer.csprojResolveAssemblyReference.cache
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\SIV.DataLayer\obj\Debug\SIV.DataLayer.dll
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\SIV.DataLayer\obj\Debug\SIV.DataLayer.pdb
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\bin\Debug\SIV.DataLayer.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\bin\Debug\SIV.DataLayer.pdb
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\bin\Debug\BVRD.Global.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\bin\Debug\BVRD.Global.pdb
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\obj\Debug\SIV.DataLayer.csprojResolveAssemblyReference.cache
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\obj\Debug\SIV.DataLayer.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\obj\Debug\SIV.DataLayer.pdb
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\bin\Debug\SIV.DataLayer.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\bin\Debug\SIV.DataLayer.pdb
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\bin\Debug\BVRD.Global.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\bin\Debug\BVRD.Global.pdb
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\obj\Debug\SIV.DataLayer.csprojResolveAssemblyReference.cache
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\obj\Debug\SIV.DataLayer.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\obj\Debug\SIV.DataLayer.pdb
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\bin\Debug\SIV.DataLayer.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\bin\Debug\SIV.DataLayer.pdb
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\bin\Debug\BVRD.Global.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\bin\Debug\BVRD.Global.pdb
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\obj\Debug\SIV.DataLayer.csprojResolveAssemblyReference.cache
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\obj\Debug\SIV.DataLayer.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\obj\Debug\SIV.DataLayer.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\bin\Debug\SIV.DataLayer.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\bin\Debug\SIV.DataLayer.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\bin\Debug\BVRD.Global.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\bin\Debug\BVRD.Global.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\obj\Debug\SIV.DataLayer.csprojAssemblyReference.cache
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\obj\Debug\SIV.DataLayer.csproj.CoreCompileInputs.cache
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\obj\Debug\SIV.DataLayer.csproj.CopyComplete
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\obj\Debug\SIV.DataLayer.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\SIV.DataLayer\obj\Debug\SIV.DataLayer.pdb

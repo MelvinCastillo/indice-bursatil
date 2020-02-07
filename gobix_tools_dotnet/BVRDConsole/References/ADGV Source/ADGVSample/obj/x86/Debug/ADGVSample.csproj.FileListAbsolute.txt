@@ -1,0 +1,25 @@
+C:\PST\Projects\OpenSource\VS Code\ADGV\ADGV Source\ADGVSample\bin\Debug\ADGVSample.exe
+C:\PST\Projects\OpenSource\VS Code\ADGV\ADGV Source\ADGVSample\bin\Debug\ADGVSample.pdb
+C:\PST\Projects\OpenSource\VS Code\ADGV\ADGV Source\ADGVSample\bin\Debug\AdvancedDataGridView.dll
+C:\PST\Projects\OpenSource\VS Code\ADGV\ADGV Source\ADGVSample\bin\Debug\AdvancedDataGridView.pdb
+C:\PST\Projects\OpenSource\VS Code\ADGV\ADGV Source\ADGVSample\bin\Debug\AdvancedDataGridView.xml
+C:\PST\Projects\OpenSource\VS Code\ADGV\ADGV Source\ADGVSample\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\PST\Projects\OpenSource\VS Code\ADGV\ADGV Source\ADGVSample\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\PST\Projects\OpenSource\VS Code\ADGV\ADGV Source\ADGVSample\obj\x86\Debug\ADGVSample.csprojResolveAssemblyReference.cache
+C:\PST\Projects\OpenSource\VS Code\ADGV\ADGV Source\ADGVSample\obj\x86\Debug\ADGVSample.ADGVSample.resources
+C:\PST\Projects\OpenSource\VS Code\ADGV\ADGV Source\ADGVSample\obj\x86\Debug\ADGVSample.Properties.Resources.resources
+C:\PST\Projects\OpenSource\VS Code\ADGV\ADGV Source\ADGVSample\obj\x86\Debug\ADGVSample.csproj.GenerateResource.Cache
+C:\PST\Projects\OpenSource\VS Code\ADGV\ADGV Source\ADGVSample\obj\x86\Debug\ADGVSample.exe
+C:\PST\Projects\OpenSource\VS Code\ADGV\ADGV Source\ADGVSample\obj\x86\Debug\ADGVSample.pdb
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\References\ADGV Source\ADGVSample\obj\x86\Debug\ADGVSample.exe
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\References\ADGV Source\ADGVSample\obj\x86\Debug\ADGVSample.pdb
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\References\ADGV Source\ADGVSample\bin\Debug\ADGVSample.exe
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\References\ADGV Source\ADGVSample\bin\Debug\ADGVSample.pdb
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\References\ADGV Source\ADGVSample\bin\Debug\AdvancedDataGridView.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\References\ADGV Source\ADGVSample\bin\Debug\AdvancedDataGridView.pdb
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\References\ADGV Source\ADGVSample\bin\Debug\AdvancedDataGridView.xml
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\References\ADGV Source\ADGVSample\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\References\ADGV Source\ADGVSample\obj\x86\Debug\ADGVSample.csprojResolveAssemblyReference.cache
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\References\ADGV Source\ADGVSample\obj\x86\Debug\ADGVSample.ADGVSample.resources
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\References\ADGV Source\ADGVSample\obj\x86\Debug\ADGVSample.Properties.Resources.resources
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\References\ADGV Source\ADGVSample\obj\x86\Debug\ADGVSample.csproj.GenerateResource.Cache

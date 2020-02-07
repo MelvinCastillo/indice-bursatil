@@ -1,0 +1,93 @@
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\Gobix.BusinessDays\bin\Debug\Gobix.BusinessLayer.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\Gobix.BusinessDays\bin\Debug\Gobix.BusinessLayer.pdb
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\Gobix.BusinessDays\bin\Debug\Gobix.DataLayer.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\Gobix.BusinessDays\bin\Debug\Gobix.Global.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\Gobix.BusinessDays\bin\Debug\Microsoft.CSharp.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\Gobix.BusinessDays\bin\Debug\System.Data.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\Gobix.BusinessDays\bin\Debug\System.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\Gobix.BusinessDays\bin\Debug\System.Xml.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\Gobix.BusinessDays\bin\Debug\Gobix.DataLayer.pdb
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\Gobix.BusinessDays\bin\Debug\Gobix.Global.pdb
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\Gobix.BusinessDays\obj\Debug\Gobix.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\Gobix.BusinessDays\obj\Debug\Gobix.BusinessLayer.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\Gobix.BusinessDays\obj\Debug\Gobix.BusinessLayer.pdb
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\Gobix.BusinessDays\bin\Debug\Gobix.BusinessLayer.dll
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\Gobix.BusinessDays\bin\Debug\Gobix.BusinessLayer.pdb
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\Gobix.BusinessDays\bin\Debug\BVRD.Global.dll
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\Gobix.BusinessDays\bin\Debug\Gobix.DataLayer.dll
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\Gobix.BusinessDays\bin\Debug\Microsoft.CSharp.dll
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\Gobix.BusinessDays\bin\Debug\System.Data.dll
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\Gobix.BusinessDays\bin\Debug\System.dll
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\Gobix.BusinessDays\bin\Debug\System.Xml.dll
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\Gobix.BusinessDays\bin\Debug\Gobix.DataLayer.pdb
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\Gobix.BusinessDays\bin\Debug\BVRD.Global.pdb
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\Gobix.BusinessDays\obj\Debug\Gobix.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\Gobix.BusinessDays\obj\Debug\Gobix.BusinessLayer.dll
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\Gobix.BusinessDays\obj\Debug\Gobix.BusinessLayer.pdb
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\Gobix.BusinessLayer.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\Gobix.BusinessLayer.pdb
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\BVRD.Global.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\Gobix.DataLayer.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\Microsoft.CSharp.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\System.Data.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\System.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\System.Xml.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\Gobix.DataLayer.pdb
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\BVRD.Global.pdb
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\obj\Debug\Gobix.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\obj\Debug\Gobix.BusinessLayer.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\obj\Debug\Gobix.BusinessLayer.pdb
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\Gobix.BusinessLayer.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\Gobix.BusinessLayer.pdb
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\BVRD.Global.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\Gobix.DataLayer.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\Microsoft.CSharp.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\System.Data.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\System.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\System.Xml.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\Gobix.DataLayer.pdb
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\BVRD.Global.pdb
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\obj\Debug\Gobix.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\obj\Debug\Gobix.BusinessLayer.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\obj\Debug\Gobix.BusinessLayer.pdb
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\Gobix.BusinessLayer.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\Gobix.BusinessLayer.pdb
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\BVRD.Global.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\Gobix.DataLayer.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\Microsoft.CSharp.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\System.Data.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\System.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\System.Xml.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\Gobix.DataLayer.pdb
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\BVRD.Global.pdb
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\obj\Debug\Gobix.BusinessLayer.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\obj\Debug\Gobix.BusinessLayer.pdb
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\obj\Debug\Gobix.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\Gobix.BusinessLayer.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\Gobix.BusinessLayer.pdb
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\BVRD.Global.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\Gobix.DataLayer.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\Microsoft.CSharp.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\System.Data.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\System.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\System.Xml.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\Gobix.DataLayer.pdb
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\BVRD.Global.pdb
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\obj\Debug\Gobix.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\obj\Debug\Gobix.BusinessLayer.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\obj\Debug\Gobix.BusinessLayer.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\Gobix.BusinessLayer.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\Gobix.BusinessLayer.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\BVRD.Global.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\Gobix.DataLayer.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\Microsoft.CSharp.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\System.Data.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\System.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\System.Xml.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\Gobix.DataLayer.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\bin\Debug\BVRD.Global.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\obj\Debug\Gobix.BusinessLayer.csprojAssemblyReference.cache
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\obj\Debug\Gobix.BusinessLayer.csproj.CoreCompileInputs.cache
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\obj\Debug\Gobix.BusinessLayer.csproj.CopyComplete
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\obj\Debug\Gobix.BusinessLayer.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\Gobix.BusinessDays\obj\Debug\Gobix.BusinessLayer.pdb

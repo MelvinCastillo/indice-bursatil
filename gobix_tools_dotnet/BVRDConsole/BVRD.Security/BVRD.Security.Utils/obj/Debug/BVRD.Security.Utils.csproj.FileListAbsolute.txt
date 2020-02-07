@@ -1,0 +1,24 @@
+C:\Users\jurnio.altagracia\Downloads\Cryptography\Cryptography_src\EnCryptDecrypt\BVRD.Security.Utils\bin\Debug\BVRD.Security.Utils.dll
+C:\Users\jurnio.altagracia\Downloads\Cryptography\Cryptography_src\EnCryptDecrypt\BVRD.Security.Utils\bin\Debug\BVRD.Security.Utils.pdb
+C:\Users\jurnio.altagracia\Downloads\Cryptography\Cryptography_src\EnCryptDecrypt\BVRD.Security.Utils\obj\Debug\BVRD.Security.Utils.dll
+C:\Users\jurnio.altagracia\Downloads\Cryptography\Cryptography_src\EnCryptDecrypt\BVRD.Security.Utils\obj\Debug\BVRD.Security.Utils.pdb
+C:\Users\jurnio.altagracia\Downloads\Cryptography\Cryptography_src\BVRD.Security\BVRD.Security.Utils\bin\Debug\BVRD.Security.Utils.dll
+C:\Users\jurnio.altagracia\Downloads\Cryptography\Cryptography_src\BVRD.Security\BVRD.Security.Utils\bin\Debug\BVRD.Security.Utils.pdb
+C:\Users\jurnio.altagracia\Downloads\Cryptography\Cryptography_src\BVRD.Security\BVRD.Security.Utils\obj\Debug\BVRD.Security.Utils.dll
+C:\Users\jurnio.altagracia\Downloads\Cryptography\Cryptography_src\BVRD.Security\BVRD.Security.Utils\obj\Debug\BVRD.Security.Utils.pdb
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\BVRD.Security\BVRD.Security.Utils\bin\Debug\BVRD.Security.Utils.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\BVRD.Security\BVRD.Security.Utils\bin\Debug\BVRD.Security.Utils.pdb
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\BVRD.Security\BVRD.Security.Utils\obj\Debug\BVRD.Security.Utils.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\BVRD.Security\BVRD.Security.Utils\obj\Debug\BVRD.Security.Utils.pdb
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\BVRD.Security\BVRD.Security.Utils\obj\Debug\BVRD.Security.Utils.csprojResolveAssemblyReference.cache
+C:\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Security\BVRD.Security.Utils\bin\Debug\BVRD.Security.Utils.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Security\BVRD.Security.Utils\bin\Debug\BVRD.Security.Utils.pdb
+C:\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Security\BVRD.Security.Utils\obj\Debug\BVRD.Security.Utils.csprojResolveAssemblyReference.cache
+C:\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Security\BVRD.Security.Utils\obj\Debug\BVRD.Security.Utils.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Security\BVRD.Security.Utils\obj\Debug\BVRD.Security.Utils.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Security\BVRD.Security.Utils\bin\Debug\BVRD.Security.Utils.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Security\BVRD.Security.Utils\bin\Debug\BVRD.Security.Utils.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Security\BVRD.Security.Utils\obj\Debug\BVRD.Security.Utils.csprojAssemblyReference.cache
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Security\BVRD.Security.Utils\obj\Debug\BVRD.Security.Utils.csproj.CoreCompileInputs.cache
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Security\BVRD.Security.Utils\obj\Debug\BVRD.Security.Utils.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Security\BVRD.Security.Utils\obj\Debug\BVRD.Security.Utils.pdb

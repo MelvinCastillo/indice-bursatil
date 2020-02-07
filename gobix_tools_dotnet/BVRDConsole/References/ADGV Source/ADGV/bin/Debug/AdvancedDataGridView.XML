@@ -1,0 +1,439 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AdvancedDataGridView</name>
+    </assembly>
+    <members>
+        <member name="T:ADGV.Localization.ADGVStrings">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.cancelbutton_text">
+            <summary>
+              Looks up a localized string similar to Cancelar.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.cancelfiltermenuitem_text">
+            <summary>
+              Looks up a localized string similar to Eliminar filtro.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.cancelsortmenuitem_text">
+            <summary>
+              Looks up a localized string similar to Limpiar Ordenar Por.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.checknodetree_hour">
+            <summary>
+              Looks up a localized string similar to h.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.checknodetree_millisecond">
+            <summary>
+              Looks up a localized string similar to ms.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.checknodetree_minute">
+            <summary>
+              Looks up a localized string similar to m.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.checknodetree_second">
+            <summary>
+              Looks up a localized string similar to s.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.filtersmenuitem_text_datetime">
+            <summary>
+              Looks up a localized string similar to Filtro por fecha.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.filtersmenuitem_text_numeric">
+            <summary>
+              Looks up a localized string similar to Filtro numerico.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.filtersmenuitem_text_text">
+            <summary>
+              Looks up a localized string similar to Filtro por texto.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.month1">
+            <summary>
+              Looks up a localized string similar to Enero.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.month10">
+            <summary>
+              Looks up a localized string similar to Octubre.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.month11">
+            <summary>
+              Looks up a localized string similar to Noviembre.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.month12">
+            <summary>
+              Looks up a localized string similar to Diciembre.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.month2">
+            <summary>
+              Looks up a localized string similar to Febrero.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.month3">
+            <summary>
+              Looks up a localized string similar to Marzo.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.month4">
+            <summary>
+              Looks up a localized string similar to Abril.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.month5">
+            <summary>
+              Looks up a localized string similar to Mayo.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.month6">
+            <summary>
+              Looks up a localized string similar to Junio.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.month7">
+            <summary>
+              Looks up a localized string similar to Julio.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.month8">
+            <summary>
+              Looks up a localized string similar to Agosto.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.month9">
+            <summary>
+              Looks up a localized string similar to Septiembre.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.okbutton_text">
+            <summary>
+              Looks up a localized string similar to OK.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.setfilterform_andlabel_text">
+            <summary>
+              Looks up a localized string similar to y.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.setfilterform_cancelbutton_text">
+            <summary>
+              Looks up a localized string similar to Cancelar.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.setfilterform_columnnamelabel_text">
+            <summary>
+              Looks up a localized string similar to Mostrar filas donde el valor.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.setfilterform_errorprovider_value">
+            <summary>
+              Looks up a localized string similar to Valor no válido.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.setfilterform_filtertypecombobox_after">
+            <summary>
+              Looks up a localized string similar to A más tardar.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.setfilterform_filtertypecombobox_before">
+            <summary>
+              Looks up a localized string similar to Antes de lo.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.setfilterform_filtertypecombobox_begins">
+            <summary>
+              Looks up a localized string similar to Comienza con.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.setfilterform_filtertypecombobox_between">
+            <summary>
+              Looks up a localized string similar to Entre.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.setfilterform_filtertypecombobox_contain">
+            <summary>
+              Looks up a localized string similar to Contiene.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.setfilterform_filtertypecombobox_ends">
+            <summary>
+              Looks up a localized string similar to Termina con.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.setfilterform_filtertypecombobox_equal">
+            <summary>
+              Looks up a localized string similar to Es igual a.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.setfilterform_filtertypecombobox_lagerequals">
+            <summary>
+              Looks up a localized string similar to Mayor que o igual a.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.setfilterform_filtertypecombobox_larger">
+            <summary>
+              Looks up a localized string similar to Mayor que.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.setfilterform_filtertypecombobox_less">
+            <summary>
+              Looks up a localized string similar to Menor que.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.setfilterform_filtertypecombobox_lessequals">
+            <summary>
+              Looks up a localized string similar to Menor que o igual a.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.setfilterform_filtertypecombobox_nobegins">
+            <summary>
+              Looks up a localized string similar to No comienza con.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.setfilterform_filtertypecombobox_nocontain">
+            <summary>
+              Looks up a localized string similar to No contiene.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.setfilterform_filtertypecombobox_noends">
+            <summary>
+              Looks up a localized string similar to No termina con.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.setfilterform_filtertypecombobox_notequal">
+            <summary>
+              Looks up a localized string similar to no es igual a.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.setfilterform_okbutton_text">
+            <summary>
+              Looks up a localized string similar to OK.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.setfilterform_text">
+            <summary>
+              Looks up a localized string similar to Aplicar filtro.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.setfilterform_viewfilterstring_and">
+            <summary>
+              Looks up a localized string similar to Y.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.setfilterform_viewfilterstring_mustbe">
+            <summary>
+              Looks up a localized string similar to Mostrar filas donde el valor.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.setupfiltermenuitem_text">
+            <summary>
+              Looks up a localized string similar to Custom.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.sortascmenuitem_text_boolean">
+            <summary>
+              Looks up a localized string similar to Ordenar por Falso / Verdadero.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.sortascmenuitem_text_datetime">
+            <summary>
+              Looks up a localized string similar to Sort oldest to newest.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.sortascmenuitem_text_numeric">
+            <summary>
+              Looks up a localized string similar to Sort smallest to largest.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.sortascmenuitem_text_text">
+            <summary>
+              Looks up a localized string similar to Ordenar А a Z.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.sortdescmenuitem_text">
+            <summary>
+              Looks up a localized string similar to Ordenar Z a A.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.sortdescmenuitem_text_boolean">
+            <summary>
+              Looks up a localized string similar to Ordenar por Verdadero / Falso.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.sortdescmenuitem_text_datetime">
+            <summary>
+              Looks up a localized string similar to Ordenar reciente al más antiguo.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.sortdescmenuitem_text_numeric">
+            <summary>
+              Looks up a localized string similar to Ordenar de mayor a menor.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.tripletreenode_allnode_text">
+            <summary>
+              Looks up a localized string similar to ( Seleccionar todo).
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.tripletreenode_boolean_false">
+            <summary>
+              Looks up a localized string similar to Falso.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.tripletreenode_boolean_true">
+            <summary>
+              Looks up a localized string similar to Verdadero.
+            </summary>
+        </member>
+        <member name="P:ADGV.Localization.ADGVStrings.tripletreenode_nullnode_text">
+            <summary>
+              Looks up a localized string similar to (Espacios en blanco).
+            </summary>
+        </member>
+        <member name="T:ADGV.Properties.Resources">
+            <summary>
+              Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+            </summary>
+        </member>
+        <member name="P:ADGV.Properties.Resources.ResourceManager">
+            <summary>
+              Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+            </summary>
+        </member>
+        <member name="P:ADGV.Properties.Resources.Culture">
+            <summary>
+              Перезаписывает свойство CurrentUICulture текущего потока для всех
+              обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+            </summary>
+        </member>
+        <member name="P:ADGV.Properties.Resources.AddFilter">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ADGV.Properties.Resources.ASC">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ADGV.Properties.Resources.ASCbool">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ADGV.Properties.Resources.ASCnum">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ADGV.Properties.Resources.ASCtxt">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ADGV.Properties.Resources.DESC">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ADGV.Properties.Resources.DESCbool">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ADGV.Properties.Resources.DESCnum">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ADGV.Properties.Resources.DESCtxt">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ADGV.Properties.Resources.Filter">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ADGV.Properties.Resources.FilterASC">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ADGV.Properties.Resources.FilterDESC">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ADGV.Properties.Resources.ResizeGrip">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ADGV.Properties.Resources.SavedFilter">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="F:ADGV.SearchToolBar.components">
+            <summary> 
+            Требуется переменная конструктора.
+            </summary>
+        </member>
+        <member name="M:ADGV.SearchToolBar.Dispose(System.Boolean)">
+            <summary> 
+            Освободить все используемые ресурсы.
+            </summary>
+            <param name="disposing">истинно, если управляемый ресурс должен быть удален; иначе ложно.</param>
+        </member>
+        <member name="M:ADGV.SearchToolBar.InitializeComponent">
+            <summary> 
+            Обязательный метод для поддержки конструктора - не изменяйте 
+            содержимое данного метода при помощи редактора кода.
+            </summary>
+        </member>
+        <member name="F:ADGV.SetFilterForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ADGV.SetFilterForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ADGV.SetFilterForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+    </members>
+</doc>

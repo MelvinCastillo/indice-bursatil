@@ -1,0 +1,11 @@
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\BVRD.Security\BVRD.Security.Utils\bin\Release\BVRD.Security.Utils.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\BVRD.Security\BVRD.Security.Utils\bin\Release\BVRD.Security.Utils.pdb
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\BVRD.Security\BVRD.Security.Utils\obj\Release\BVRD.Security.Utils.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\BVRD.Security\BVRD.Security.Utils\obj\Release\BVRD.Security.Utils.pdb
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\BVRD.Security\BVRD.Security.Utils\obj\Release\BVRD.Security.Utils.csprojResolveAssemblyReference.cache
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Security\BVRD.Security.Utils\bin\Release\BVRD.Security.Utils.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Security\BVRD.Security.Utils\bin\Release\BVRD.Security.Utils.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Security\BVRD.Security.Utils\obj\Release\BVRD.Security.Utils.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Security\BVRD.Security.Utils\obj\Release\BVRD.Security.Utils.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Security\BVRD.Security.Utils\obj\Release\BVRD.Security.Utils.csprojAssemblyReference.cache
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRD.Security\BVRD.Security.Utils\obj\Release\BVRD.Security.Utils.csproj.CoreCompileInputs.cache

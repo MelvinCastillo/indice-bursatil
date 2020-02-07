@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F2EA4E6D-C6DB-49BC-9BA6-E70DD099FED4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BVRD.Windows.Controls</RootNamespace>
+    <AssemblyName>BVRD.Windows.Controls</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BVRD.Security.Utils">
+      <HintPath>..\..\..\..\..\..\..\References\BVRD.Security.Utils.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Toolkit">
+      <HintPath>..\..\..\..\..\..\..\References\ComponentFactory.Krypton.Toolkit.DLL</HintPath>
+    </Reference>
+    <Reference Include="CristiPotlog.Controls.Wizard">
+      <HintPath>..\..\..\..\..\..\..\References\CristiPotlog.Controls.Wizard.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus">
+      <HintPath>..\..\..\..\..\..\..\..\..\programs\EPPlus 4.0.4\EPPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\..\..\..\..\..\Windows\assembly\GAC_MSIL\Microsoft.Office.Interop.Excel\14.0.0.0__71e9bce111e9429c\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Qios.DevSuite.Components, Version=4.0.0.10, Culture=neutral, PublicKeyToken=3cc53827b79c92fa, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\..\programs\QiosDevSuite\Qios.DevSuite.DemoZone\bin\Release\Qios.DevSuite.Components.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Base\FrmBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Base\FrmBase.Designer.cs">
+      <DependentUpon>FrmBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Base\FrmBaseDataView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Base\FrmBaseDataView.Designer.cs">
+      <DependentUpon>FrmBaseDataView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Base\FrmBaseDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Base\FrmBaseDialog.Designer.cs">
+      <DependentUpon>FrmBaseDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\usDataView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\usDataView.Designer.cs">
+      <DependentUpon>usDataView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\usFileBrowser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\usFileBrowser.Designer.cs">
+      <DependentUpon>usFileBrowser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\usFileManual.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\usFileManual.Designer.cs">
+      <DependentUpon>usFileManual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\usViewRebalancing.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\usViewRebalancing.Designer.cs">
+      <DependentUpon>usViewRebalancing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Base\FrmBase.resx">
+      <DependentUpon>FrmBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Base\FrmBaseDataView.resx">
+      <DependentUpon>FrmBaseDataView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Base\FrmBaseDialog.resx">
+      <DependentUpon>FrmBaseDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\usDataView.resx">
+      <DependentUpon>usDataView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\usFileBrowser.resx">
+      <DependentUpon>usFileBrowser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\usFileManual.resx">
+      <DependentUpon>usFileManual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\usViewRebalancing.resx">
+      <DependentUpon>usViewRebalancing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\first_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_left_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_right_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\last_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Office_Excel_Application_16xLG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Copy_6524.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Market-Analysis-icon-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-dialog-ok-apply-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-edit-delete-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x_28x28.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check_32x26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_fill_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aperture_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minus_32x8.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,32 @@
+C:\PST\Projects\OpenSource\VS Code\ADGV\ADGV Source\ADGV\bin\Debug\AdvancedDataGridView.XML
+C:\PST\Projects\OpenSource\VS Code\ADGV\ADGV Source\ADGV\bin\Debug\AdvancedDataGridView.dll
+C:\PST\Projects\OpenSource\VS Code\ADGV\ADGV Source\ADGV\bin\Debug\AdvancedDataGridView.pdb
+C:\PST\Projects\OpenSource\VS Code\ADGV\ADGV Source\ADGV\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\PST\Projects\OpenSource\VS Code\ADGV\ADGV Source\ADGV\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\PST\Projects\OpenSource\VS Code\ADGV\ADGV Source\ADGV\obj\Debug\ADGV.Localization.ADGVStrings.resources
+C:\PST\Projects\OpenSource\VS Code\ADGV\ADGV Source\ADGV\obj\Debug\ADGV.Properties.Resources.resources
+C:\PST\Projects\OpenSource\VS Code\ADGV\ADGV Source\ADGV\obj\Debug\ADGV.SearchToolBar.resources
+C:\PST\Projects\OpenSource\VS Code\ADGV\ADGV Source\ADGV\obj\Debug\ADGV.SetFilterForm.resources
+C:\PST\Projects\OpenSource\VS Code\ADGV\ADGV Source\ADGV\obj\Debug\ADGV.Localization.ADGVStrings.ru.resources
+C:\PST\Projects\OpenSource\VS Code\ADGV\ADGV Source\ADGV\obj\Debug\ADGV.Localization.ADGVStrings.fr.resources
+C:\PST\Projects\OpenSource\VS Code\ADGV\ADGV Source\ADGV\obj\Debug\ADGV.SearchToolBar.ru.resources
+C:\PST\Projects\OpenSource\VS Code\ADGV\ADGV Source\ADGV\obj\Debug\AdvancedDataGridView.csproj.GenerateResource.Cache
+C:\PST\Projects\OpenSource\VS Code\ADGV\ADGV Source\ADGV\obj\Debug\ru\AdvancedDataGridView.resources.dll
+C:\PST\Projects\OpenSource\VS Code\ADGV\ADGV Source\ADGV\obj\Debug\fr\AdvancedDataGridView.resources.dll
+C:\PST\Projects\OpenSource\VS Code\ADGV\ADGV Source\ADGV\obj\Debug\AdvancedDataGridView.dll
+C:\PST\Projects\OpenSource\VS Code\ADGV\ADGV Source\ADGV\obj\Debug\AdvancedDataGridView.pdb
+C:\PST\Projects\OpenSource\VS Code\ADGV\ADGV Source\ADGV\obj\Debug\AdvancedDataGridView.csprojResolveAssemblyReference.cache
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\References\ADGV Source\ADGV\bin\Debug\AdvancedDataGridView.XML
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\References\ADGV Source\ADGV\bin\Debug\AdvancedDataGridView.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\References\ADGV Source\ADGV\bin\Debug\AdvancedDataGridView.pdb
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\References\ADGV Source\ADGV\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\References\ADGV Source\ADGV\obj\Debug\ADGV.Localization.ADGVStrings.resources
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\References\ADGV Source\ADGV\obj\Debug\ADGV.Properties.Resources.resources
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\References\ADGV Source\ADGV\obj\Debug\ADGV.SearchToolBar.resources
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\References\ADGV Source\ADGV\obj\Debug\ADGV.SetFilterForm.resources
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\References\ADGV Source\ADGV\obj\Debug\ADGV.SearchToolBar.ru.resources
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\References\ADGV Source\ADGV\obj\Debug\AdvancedDataGridView.csproj.GenerateResource.Cache
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\References\ADGV Source\ADGV\obj\Debug\ru\AdvancedDataGridView.resources.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\References\ADGV Source\ADGV\obj\Debug\AdvancedDataGridView.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\References\ADGV Source\ADGV\obj\Debug\AdvancedDataGridView.pdb
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\GobixTools.Front\References\ADGV Source\ADGV\obj\Debug\AdvancedDataGridView.csprojResolveAssemblyReference.cache

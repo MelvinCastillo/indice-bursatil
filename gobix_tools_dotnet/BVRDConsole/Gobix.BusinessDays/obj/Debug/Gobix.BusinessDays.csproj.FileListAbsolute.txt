@@ -1,0 +1,27 @@
+c:\users\jurnio.altagracia\documents\visual studio 2012\Projects\GobixTools\Gobix.BusinessDays\bin\Debug\Gobix.BusinessDays.dll
+c:\users\jurnio.altagracia\documents\visual studio 2012\Projects\GobixTools\Gobix.BusinessDays\bin\Debug\Gobix.BusinessDays.pdb
+c:\users\jurnio.altagracia\documents\visual studio 2012\Projects\GobixTools\Gobix.BusinessDays\obj\Debug\Gobix.BusinessDays.dll
+c:\users\jurnio.altagracia\documents\visual studio 2012\Projects\GobixTools\Gobix.BusinessDays\obj\Debug\Gobix.BusinessDays.pdb
+c:\users\jurnio.altagracia\documents\visual studio 2012\Projects\GobixTools\Gobix.BusinessDays\bin\Debug\Gobix.Global.dll
+c:\users\jurnio.altagracia\documents\visual studio 2012\Projects\GobixTools\Gobix.BusinessDays\bin\Debug\Gobix.Global.pdb
+c:\users\jurnio.altagracia\documents\visual studio 2012\Projects\GobixTools\Gobix.BusinessDays\obj\Debug\Gobix.BusinessDays.csprojResolveAssemblyReference.cache
+C:\Users\jurnio.altagracia\Documents\Visual Studio 2012\Projects\GobixTools\Gobix.BusinessDays\bin\Debug\Gobix.DataLayer.dll
+C:\Users\jurnio.altagracia\Documents\Visual Studio 2012\Projects\GobixTools\Gobix.BusinessDays\bin\Debug\Gobix.DataLayer.pdb
+C:\BVRD\Proyectos\Gobix\Gobix\GobixTools\Gobix.BusinessDays\bin\Debug\Gobix.BusinessDays.dll
+C:\BVRD\Proyectos\Gobix\Gobix\GobixTools\Gobix.BusinessDays\bin\Debug\Gobix.BusinessDays.pdb
+C:\BVRD\Proyectos\Gobix\Gobix\GobixTools\Gobix.BusinessDays\bin\Debug\Gobix.DataLayer.dll
+C:\BVRD\Proyectos\Gobix\Gobix\GobixTools\Gobix.BusinessDays\bin\Debug\Gobix.Global.dll
+C:\BVRD\Proyectos\Gobix\Gobix\GobixTools\Gobix.BusinessDays\bin\Debug\Gobix.DataLayer.pdb
+C:\BVRD\Proyectos\Gobix\Gobix\GobixTools\Gobix.BusinessDays\bin\Debug\Gobix.Global.pdb
+C:\BVRD\Proyectos\Gobix\Gobix\GobixTools\Gobix.BusinessDays\obj\Debug\Gobix.BusinessDays.csprojResolveAssemblyReference.cache
+C:\BVRD\Proyectos\Gobix\Gobix\GobixTools\Gobix.BusinessDays\obj\Debug\Gobix.BusinessDays.dll
+C:\BVRD\Proyectos\Gobix\Gobix\GobixTools\Gobix.BusinessDays\obj\Debug\Gobix.BusinessDays.pdb
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\Gobix.BusinessDays\bin\Debug\Gobix.BusinessDays.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\Gobix.BusinessDays\bin\Debug\Gobix.BusinessDays.pdb
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\Gobix.BusinessDays\bin\Debug\Gobix.DataLayer.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\Gobix.BusinessDays\bin\Debug\Gobix.Global.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\Gobix.BusinessDays\bin\Debug\Gobix.DataLayer.pdb
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\Gobix.BusinessDays\bin\Debug\Gobix.Global.pdb
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\Gobix.BusinessDays\obj\Debug\Gobix.BusinessDays.csprojResolveAssemblyReference.cache
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\Gobix.BusinessDays\obj\Debug\Gobix.BusinessDays.dll
+C:\BVRD\Bitbucket\Projects\indice-bursatil\gobix_backend\gobix_tools_dotnet\GobixTools\Gobix.BusinessDays\obj\Debug\Gobix.BusinessDays.pdb

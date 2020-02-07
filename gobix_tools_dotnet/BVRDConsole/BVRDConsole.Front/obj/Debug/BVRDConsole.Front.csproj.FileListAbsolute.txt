@@ -1,0 +1,368 @@
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.csprojResolveAssemblyReference.cache
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmGobixFtpFiles.resources
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmGobixManualFile.resources
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmGobixProcessFiles.resources
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.FrmDashBoard.resources
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.FrmLogin.resources
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.frmMain.resources
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Index.FrmPublish.resources
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Index.FrmRunIndex.resources
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Index.FrmViewIndex.resources
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Rebalancing.FrmManualRebalancing.resources
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.GOBIX.Rebalancing.FrmRebalancing_Ponderation.resources
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Rebalancing.FrmSelectRebalancing.resources
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Properties.Resources.resources
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Rebalancing.FrmDoRebalancing.resources
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Rebalancing.FrmViewRebalancing.resources
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVFilesHistory.resources
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVFtpFiles.resources
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVManualFile.resources
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVProcessFiles.resources
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVPublish.resources
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmViewDataSivResult.resources
+C:\Proyecto\BolsaDeValores\VerifiedFiles2\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.csproj.GenerateResource.Cache
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.csprojResolveAssemblyReference.cache
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmGobixFtpFiles.resources
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmGobixManualFile.resources
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmGobixProcessFiles.resources
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.FrmDashBoard.resources
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.FrmLogin.resources
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.frmMain.resources
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Index.FrmPublish.resources
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Index.FrmRunIndex.resources
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Index.FrmViewIndex.resources
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Rebalancing.FrmManualRebalancing.resources
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.GOBIX.Rebalancing.FrmRebalancing_Ponderation.resources
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Rebalancing.FrmSelectRebalancing.resources
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Properties.Resources.resources
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Rebalancing.FrmDoRebalancing.resources
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Rebalancing.FrmViewRebalancing.resources
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVFilesHistory.resources
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVFtpFiles.resources
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVManualFile.resources
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVProcessFiles.resources
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVPublish.resources
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmViewDataSivResult.resources
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.csproj.GenerateResource.Cache
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRDConsole.Front.exe.config
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRDConsole.Front.exe
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRDConsole.Front.pdb
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.FTP.Utils.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.Global.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.Security.Utils.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.Windows.Controls.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\ComponentFactory.Krypton.Toolkit.DLL
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\CristiPotlog.Controls.Wizard.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\EPPlus.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Gobix.BusinessLayer.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Gobix.DataLayer.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.CSharp.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Qios.DevSuite.Components.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\SIV.BusinessLayer.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Data.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Design.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Drawing.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Runtime.Serialization.Formatters.Soap.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Web.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Windows.Forms.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Xml.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\UIAutomationProvider.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\UIAutomationTypes.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\WindowsBase.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\SIV.DataLayer.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.FTP.Utils.pdb
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.Windows.Controls.pdb
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Gobix.BusinessLayer.pdb
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Gobix.DataLayer.pdb
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.Global.pdb
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\SIV.BusinessLayer.pdb
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\EPPlus.xml
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\SIV.DataLayer.pdb
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.exe
+C:\DocumentPC\Work\Projects\Develop\vs2015\indice_bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.pdb
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRDConsole.Front.exe.config
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.csprojResolveAssemblyReference.cache
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmGobixFtpFiles.resources
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmGobixManualFile.resources
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmGobixProcessFiles.resources
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.FrmDashBoard.resources
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.FrmLogin.resources
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Index.FrmPublish.resources
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Index.FrmRunIndex.resources
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Index.FrmViewIndex.resources
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Rebalancing.FrmManualRebalancing.resources
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.GOBIX.Rebalancing.FrmRebalancing_Ponderation.resources
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Rebalancing.FrmSelectRebalancing.resources
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Properties.Resources.resources
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Rebalancing.FrmDoRebalancing.resources
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Rebalancing.FrmViewRebalancing.resources
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVFilesHistory.resources
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVFtpFiles.resources
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVManualFile.resources
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVProcessFiles.resources
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVPublish.resources
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmViewDataSivResult.resources
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.csproj.GenerateResource.Cache
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRDConsole.Front.exe
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRDConsole.Front.pdb
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.FTP.Utils.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.Global.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.Security.Utils.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.Windows.Controls.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\ComponentFactory.Krypton.Toolkit.DLL
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\EPPlus.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Gobix.BusinessLayer.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Gobix.DataLayer.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.CSharp.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Qios.DevSuite.Components.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\SIV.BusinessLayer.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Data.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Design.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Drawing.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Web.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Windows.Forms.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Xml.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\UIAutomationProvider.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\UIAutomationTypes.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\WindowsBase.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\SIV.DataLayer.dll
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.FTP.Utils.pdb
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.Windows.Controls.pdb
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Gobix.BusinessLayer.pdb
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Gobix.DataLayer.pdb
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.Global.pdb
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\SIV.BusinessLayer.pdb
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\EPPlus.xml
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\SIV.DataLayer.pdb
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.frmMain.resources
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.exe
+C:\Proyecto\BolsaDeValores\Indice-Bursatil\Source\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.pdb
+C:\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.Owin.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.Owin.Security.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Newtonsoft.Json.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Owin.dll
+C:\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.Owin.xml
+C:\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.Owin.Security.xml
+C:\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Newtonsoft.Json.xml
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRDConsole.Front.exe.config
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.exe
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.pdb
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRDConsole.Front.exe
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRDConsole.Front.pdb
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.FTP.Utils.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.Global.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.Security.Utils.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.Windows.Controls.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\ComponentFactory.Krypton.Toolkit.DLL
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\CristiPotlog.Controls.Wizard.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\EPPlus.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Gobix.BusinessLayer.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Gobix.DataLayer.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.CSharp.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.Owin.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.Owin.Security.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Newtonsoft.Json.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Owin.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Qios.DevSuite.Components.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\SIV.BusinessLayer.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Data.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Design.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Drawing.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Runtime.Serialization.Formatters.Soap.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Web.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Windows.Forms.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Xml.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\UIAutomationProvider.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\UIAutomationTypes.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\WindowsBase.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\SIV.DataLayer.dll
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.FTP.Utils.pdb
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.Windows.Controls.pdb
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Gobix.BusinessLayer.pdb
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Gobix.DataLayer.pdb
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.Global.pdb
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\SIV.BusinessLayer.pdb
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\EPPlus.xml
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.Owin.xml
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.Owin.Security.xml
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Newtonsoft.Json.xml
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\SIV.DataLayer.pdb
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.csprojResolveAssemblyReference.cache
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmGobixFtpFiles.resources
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmGobixManualFile.resources
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmGobixProcessFiles.resources
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.FrmDashBoard.resources
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.FrmLogin.resources
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.frmMain.resources
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Index.FrmPublish.resources
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Index.FrmRunIndex.resources
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Index.FrmViewIndex.resources
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Rebalancing.FrmManualRebalancing.resources
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.GOBIX.Rebalancing.FrmRebalancing_Ponderation.resources
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Rebalancing.FrmSelectRebalancing.resources
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Properties.Resources.resources
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Rebalancing.FrmDoRebalancing.resources
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Rebalancing.FrmViewRebalancing.resources
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVFilesHistory.resources
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVFtpFiles.resources
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVManualFile.resources
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVProcessFiles.resources
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVPublish.resources
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmViewDataSivResult.resources
+\\app\Tecnologia\Roman\DocumentPC\Work\Projects\Develop\vs2015\Indice_Bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.csproj.GenerateResource.Cache
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRDConsole.Front.exe.config
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.exe
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.pdb
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRDConsole.Front.exe
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRDConsole.Front.pdb
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.FTP.Utils.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.Global.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.Windows.Controls.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Gobix.BusinessLayer.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Gobix.DataLayer.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.CSharp.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.Owin.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.Owin.Security.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Newtonsoft.Json.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Owin.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\SIV.BusinessLayer.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Data.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Design.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Drawing.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Web.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Windows.Forms.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Xml.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\UIAutomationProvider.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\UIAutomationTypes.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\WindowsBase.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\SIV.DataLayer.dll
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.FTP.Utils.pdb
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.Windows.Controls.pdb
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Gobix.BusinessLayer.pdb
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Gobix.DataLayer.pdb
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.Global.pdb
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\SIV.BusinessLayer.pdb
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\EPPlus.xml
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.Owin.xml
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.Owin.Security.xml
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Newtonsoft.Json.xml
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\SIV.DataLayer.pdb
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.csprojResolveAssemblyReference.cache
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmGobixFtpFiles.resources
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmGobixManualFile.resources
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmGobixProcessFiles.resources
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.FrmDashBoard.resources
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.FrmLogin.resources
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.frmMain.resources
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Index.FrmPublish.resources
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Index.FrmRunIndex.resources
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Index.FrmViewIndex.resources
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Rebalancing.FrmManualRebalancing.resources
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.GOBIX.Rebalancing.FrmRebalancing_Ponderation.resources
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Rebalancing.FrmSelectRebalancing.resources
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Properties.Resources.resources
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Rebalancing.FrmDoRebalancing.resources
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Rebalancing.FrmViewRebalancing.resources
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVFilesHistory.resources
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVFtpFiles.resources
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVManualFile.resources
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVProcessFiles.resources
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVPublish.resources
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmViewDataSivResult.resources
+C:\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.csproj.GenerateResource.Cache
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.csprojAssemblyReference.cache
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.FrmLogin.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmGobixFtpFiles.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmGobixManualFile.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmGobixProcessFiles.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.FrmDashBoard.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.frmMain.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Index.FrmPublish.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Index.FrmRunIndex.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Index.FrmViewIndex.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Rebalancing.FrmManualRebalancing.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.GOBIX.Rebalancing.FrmRebalancing_Ponderation.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Rebalancing.FrmSelectRebalancing.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Properties.Resources.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Rebalancing.FrmDoRebalancing.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Rebalancing.FrmViewRebalancing.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVFilesHistoryBancos.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVFilesHistory.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVFtpFilesBancos.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVFtpFiles.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVManualFileBancos.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVManualFile.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVProcessFilesBancos.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVProcessFiles.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmSIVPublish.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.Files.FrmViewDataSivResult.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.csproj.GenerateResource.cache
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.csproj.CoreCompileInputs.cache
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRDConsole.Front.exe.config
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRDConsole.Front.exe.manifest
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRDConsole.Front.application
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRDConsole.Front.exe
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRDConsole.Front.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.FTP.Utils.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.Global.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.Windows.Controls.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Gobix.BusinessLayer.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Gobix.DataLayer.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.CSharp.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.Owin.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.Owin.Security.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Newtonsoft.Json.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Owin.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\SIV.BusinessLayer.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Data.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Design.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Drawing.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Runtime.Serialization.Formatters.Soap.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Web.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Windows.Forms.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\System.Xml.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\UIAutomationProvider.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\UIAutomationTypes.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\WindowsBase.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\SIV.DataLayer.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.FTP.Utils.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.Windows.Controls.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Gobix.BusinessLayer.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Gobix.DataLayer.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\BVRD.Global.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\SIV.BusinessLayer.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.Owin.xml
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Microsoft.Owin.Security.xml
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\Newtonsoft.Json.xml
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\bin\Debug\SIV.DataLayer.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.exe.manifest
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.application
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.csproj.CopyComplete
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.exe
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\indice-bursatil\gobix_backend\gobix_tools_dotnet\BVRDConsole\BVRDConsole.Front\obj\Debug\BVRDConsole.Front.pdb
